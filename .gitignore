@@ -1,0 +1,17 @@
+# Dataset files
+data/raw/
+data/processed/
+
+# Trained models
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
